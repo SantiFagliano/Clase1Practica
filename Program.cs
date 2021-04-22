@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace Nombres
+namespace Clase1Practica
 {
     class Program
     {
